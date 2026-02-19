@@ -9,37 +9,37 @@ const Templates = () => {
 
                 <div className="template-grid">
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1529636798458-92182e662485?w=400&q=80" alt="Kitty Party" />
+                        <img src="https://images.unsplash.com/photo-1529636798458-92182e662485?w=400&q=80" alt="Kitty Party" loading="lazy" />
                     </div>
                     <div className="template-card template-card-wide">
-                        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80" alt="Happy Holi Wide" />
+                        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80" alt="Happy Holi Wide" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1533158326339-7f3cf2404354?w=400&q=80" alt="Ganesh Chaturthi" />
+                        <img src="https://images.unsplash.com/photo-1533158326339-7f3cf2404354?w=400&q=80" alt="Ganesh Chaturthi" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1544124499-58912cbddaad?w=400&q=80" alt="Diwali" />
+                        <img src="https://images.unsplash.com/photo-1544124499-58912cbddaad?w=400&q=80" alt="Diwali" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                     <div className="template-card">
-                        <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=400&q=80" alt="Template" />
+                        <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=400&q=80" alt="Template" loading="lazy" />
                     </div>
                 </div>
 

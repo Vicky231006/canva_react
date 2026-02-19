@@ -17,9 +17,9 @@ const Explore = () => {
                     </div>
                     <div className="feature-visual">
                         <div className="ai-gallery">
-                            <img src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=400&q=80" alt="AI Generated" />
-                            <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=400&q=80" alt="AI Generated" />
-                            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80" alt="AI Generated" />
+                            <img src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=400&q=80" alt="AI Generated" loading="lazy" />
+                            <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=400&q=80" alt="AI Generated" loading="lazy" />
+                            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80" alt="AI Generated" loading="lazy" />
                         </div>
                         <div className="ai-prompt-overlay">
                             <input type="text" value="Surreal backgrounds, ultra realistic, colorful" readOnly />
@@ -37,7 +37,7 @@ const Explore = () => {
                     <h3>Bye-bye background, in a single click</h3>
                     <button className="btn-mini">Remove background</button>
                     <div className="feature-image">
-                        <img src="/image.png" alt="Woman smiling" />
+                        <img src="/image.png" alt="Woman smiling" loading="lazy" />
                     </div>
                 </>
             )
@@ -50,7 +50,7 @@ const Explore = () => {
                     <h3>Design, present & inspire with presentations</h3>
                     <button className="btn-mini">Create a presentation</button>
                     <div className="feature-image">
-                        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80" alt="Presentation" />
+                        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80" alt="Presentation" loading="lazy" />
                     </div>
                 </>
             )
@@ -64,12 +64,12 @@ const Explore = () => {
                     <button className="btn-mini">Design for social media</button>
                     <div className="feature-visual-social">
                         <div className="social-icons-grid">
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="IG" /></div>
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WA" /></div>
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pin" /></div>
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" alt="X" /></div>
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="FB" /></div>
-                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="In" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="IG" loading="lazy" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WA" loading="lazy" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pin" loading="lazy" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" alt="X" loading="lazy" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="FB" loading="lazy" /></div>
+                            <div className="icon-box"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="In" loading="lazy" /></div>
                         </div>
                     </div>
                 </>
@@ -83,7 +83,7 @@ const Explore = () => {
                     <h3>Make your videos look awesome on any screen</h3>
                     <button className="btn-mini">Edit a video</button>
                     <div className="feature-image-wide">
-                        <img src="https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=800&q=80" alt="Video editing" />
+                        <img src="https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=800&q=80" alt="Video editing" loading="lazy" />
                     </div>
                 </>
             )
@@ -96,7 +96,7 @@ const Explore = () => {
                     <h3>Make easy edits with an AI-powered editor</h3>
                     <button className="btn-mini">Edit an image</button>
                     <div className="feature-image">
-                        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80" alt="Image editing" />
+                        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80" alt="Image editing" loading="lazy" />
                     </div>
                 </>
             )

@@ -11,7 +11,15 @@ const Hero = () => {
                 </div>
                 <div className="hero-image">
                     <div className="hero-card">
-                        <video autoPlay muted loop playsInline className="hero-video">
+                        <video
+                            autoPlay
+                            muted
+                            loop
+                            playsInline
+                            className="hero-video"
+                            poster="/image.png"
+                            preload="auto"
+                        >
                             <source src="/canva_jadu_dadu_hin_16_9.mp4" type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>
