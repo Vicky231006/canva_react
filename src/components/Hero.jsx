@@ -17,7 +17,7 @@ const Hero = () => {
                             loop
                             playsInline
                             className="hero-video"
-                            poster="/image.png"
+                            poster="/logo.svg"
                             preload="auto"
                         >
                             <source src="/canva_jadu_dadu_hin_16_9.mp4" type="video/mp4" />
